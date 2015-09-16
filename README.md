@@ -11,3 +11,5 @@ This is a single page portfolio that will link to later projects in the Dynamic 
 ### Details for teaching team
 
 ### Outside code
+Using bootstrap 
+https://github.com/twbs/bootstrap#documentation
